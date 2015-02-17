@@ -1,0 +1,8 @@
+logs/
+*.log
+*.pid
+pid
+build/
+node_modules/
+#bower?
+

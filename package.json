@@ -1,0 +1,11 @@
+{
+  "name": "react-demo",
+  "description": "react, bootstrap and require(simple)",
+  "author": "joa.zhang@gmail.com",
+  "dependencies": {
+     "react": "*",
+     "jquery": "1.9.*",
+     "bootstrap": "3.*",
+     "react-bootstrap": "*"
+   }
+}
